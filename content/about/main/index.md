@@ -1,14 +1,14 @@
 ---
 ## Configure page content in wide column
-title: "What I'm up to lately" # leave blank to exclude
+title: "What we are about" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Cultures clash as I adjust to the challenges of life in Paris while juggling my career, new friendships, and love life. Here is how to catch up with me lately!
+  Most of students and young scientists leave higher learning institutions with minimal to none skills in research. The objective of this academic company is to bring such graduates to speed on matters research and data analysis
 show_outro: true
 outro: |
-  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/)!
+  <i class="fas fa-mug-hot pr2"></i>If our company assisted you [Support us so that we can reach many that are needy](https://ko-fi.com/)!
 ---
 
 ** index doesn't contain a body, just front matter above.
