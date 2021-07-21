@@ -4,7 +4,7 @@ subtitle: "Research & Data Analysis Training Centre"
 description: "This institute is created to reach struggling young researchers"
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/PHG_0504.jpg
+  - img/1.PNG
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
