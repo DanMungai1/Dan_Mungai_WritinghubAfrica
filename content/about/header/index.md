@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hello, here lies the answer to all your research and data analyes queries
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+WritingHub Africa Limited is a company of young educated researchers dedicated to raising the bar of research in Africa and beyond. The company trains as well as does research and data analyses for its clients.  :KE:
