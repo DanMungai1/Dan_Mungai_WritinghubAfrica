@@ -4,7 +4,7 @@ name: Contact Us Form
 description: "If there be any queries, concerns or suggestions you may reach us through our email address."
 date: 2019-02-25T13:38:41-06:00
 draft: false
-url: Contact
+url: mungaindegwa@gmail.com
 type: form
 layout: split-right # split-right or split-left
 submit_button_label: Send Message
