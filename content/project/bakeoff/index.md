@@ -1,9 +1,9 @@
 ---
-title: "Bakeoff"
+title: "Start the Scientific Journey Today"
 subtitle: "An R Package"
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
+excerpt: "The longest journey is the scientific academic journey. The longest journey of our lives usually happens in school. The journey is not for the faint hearted"
 date: 2019-07-01
-author: "Eric Anderson"
+author: "Nick Outa"
 draft: false
 tags:
   - hugo-site

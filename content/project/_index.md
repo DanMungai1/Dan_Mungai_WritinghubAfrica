@@ -1,7 +1,7 @@
 ---
 title: Let us grow together in Reserch, we should not be left behind by the rest of the world
 description: "Give your research and data analysis a professional touch."
-author: "The WritingHub Team @RStudio"
+author: "The WritingHub Team @WritingHubAfrica"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

@@ -1,8 +1,8 @@
 ---
 title: Everlasting Educational Talks
 description: |
-  Educating the scientists a researcher at a time.
-author: "The WritingHub Team @RStudio"
+  Educating the scientists one researcher at a time.
+author: "The WritingHub Team @WritingHubAfrica"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
