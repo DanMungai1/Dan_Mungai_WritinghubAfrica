@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Everlasting Educational Talks
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  Educating the scientists a researcher at a time.
+author: "The WritingHub Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
