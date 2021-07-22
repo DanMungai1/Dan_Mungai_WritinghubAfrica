@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "WritingHub Africa Ltd"
   orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "An Avenue meant to reach upcoming scientists that need help."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
