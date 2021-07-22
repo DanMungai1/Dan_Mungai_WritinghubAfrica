@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hello, here lies the answer to all your research and data analyes queries
+  Hello, here lies the answer to all your research and data analyses queries
 ---
 
 <!-- this is a subheadline -->

@@ -1,6 +1,6 @@
 ---
-title: "Lorem Star Wars"
-subtitle: "How to add panelsets in plain markdown posts."
+title: "The Publishing Process"
+subtitle: "Journal Identification and Publication."
 excerpt: "Add tabbed sections to your posts."
 date: 2021-05-25
 author: "Alison Hill"

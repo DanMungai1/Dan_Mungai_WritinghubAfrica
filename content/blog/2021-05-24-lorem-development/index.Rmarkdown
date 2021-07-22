@@ -1,9 +1,9 @@
 ---
-title: "Lorem Arrested Development"
-subtitle: "How to add panelsets in R Markdown posts."
+title: "Let Us talk About Data Analysis"
+subtitle: "What are tidy data principles."
 excerpt: "Add tabbed sections with code and results."
 date: 2021-05-24
-author: "Alison Hill"
+author: "WritingHub Africa Ltd"
 draft: false
 # layout options: single, single-sidebar
 layout: single

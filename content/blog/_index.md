@@ -1,5 +1,5 @@
 ---
-title: A Blog That Works
+title: Principles of Research, Data analysis and Publication
 description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
